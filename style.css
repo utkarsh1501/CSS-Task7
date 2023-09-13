@@ -1,0 +1,30 @@
+.box1{
+    padding-top: 100px;
+    height: 800px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b02246;
+}
+.box2{
+    
+    height: 600px;
+    width: 600px;
+    background-color: #800020;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding-top: 90px;
+    padding-left: 90px;
+}
+
+td{
+    font-size: 4ch;
+    color: aliceblue;
+    
+    
+}
+.button{
+    width: 400px;
+    height: 30px;
+}
